@@ -4,6 +4,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Biased Standings", "Biased 
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Natrij", "Natrij\Natrij.csproj", "{5CAC7CC9-8781-4BB3-B8C1-6CA9D7E13B56}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Get Shorty", "Get Shorty\Get Shorty.csproj", "{6745BB3A-24A4-4185-8EE5-6194A66ACF1C}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -18,5 +20,9 @@ Global
 		{5CAC7CC9-8781-4BB3-B8C1-6CA9D7E13B56}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{5CAC7CC9-8781-4BB3-B8C1-6CA9D7E13B56}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{5CAC7CC9-8781-4BB3-B8C1-6CA9D7E13B56}.Release|Any CPU.Build.0 = Release|Any CPU
+		{6745BB3A-24A4-4185-8EE5-6194A66ACF1C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{6745BB3A-24A4-4185-8EE5-6194A66ACF1C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{6745BB3A-24A4-4185-8EE5-6194A66ACF1C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{6745BB3A-24A4-4185-8EE5-6194A66ACF1C}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 EndGlobal
