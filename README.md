@@ -4,3 +4,4 @@ These are some solutions I have made for questions on [open kattis](https://open
 | - | - |
 | [Biased Standings](https://open.kattis.com/problems/standings) | [C#](https://github.com/stoftot/OpenKattis/blob/main/CSharpSolutions/Biased%20Standings/Program.cs) |
 | [Natrij](https://open.kattis.com/problems/natrij) | [C#](https://github.com/stoftot/OpenKattis/blob/main/CSharpSolutions/Natrij/Program.cs) |
+| [Get Shorty](https://open.kattis.com/problems/getshorty?editresubmit=18397369) | [C#](https://github.com/stoftot/OpenKattis/blob/main/CSharpSolutions/Get%20Shorty/Program.cs) |
